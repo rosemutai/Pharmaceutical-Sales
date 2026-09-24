@@ -1,4 +1,4 @@
-#Analysing Pharma Sales Data
+# Analysing Pharma Sales Data
 
 In this project, I analyzed a pharmaceutical sales dataset.
 
